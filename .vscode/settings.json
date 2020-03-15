@@ -1,0 +1,21 @@
+{
+    "files.exclude": {
+        // ".gitignore": true,
+        // ".eslintrc": true,
+        // ".eslintignore": true,
+        // "jsconfig.json": true,
+        // ".editorConfig": true,
+        "package-lock.json": true,
+        "src/serviceWorker.js": true,
+        // "serviceWorker.js": true,
+        "ssl_certificate": true,
+        "node_modules": true,
+        "public/manifest.json": true,
+        "yarn-error.log": true,
+        "src/jest.config.json": true,
+        "src/setupTests.js": true,
+        // ".prettierrc.js": true,
+        "coverage/": true,
+        // ".babelrc": true
+    }
+}

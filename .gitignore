@@ -1,0 +1,25 @@
+*.log
+npm-debug.log*
+
+# run time
+pids
+*.pids
+*.seed
+*.pid.lock
+
+
+node_modules/
+.npm
+.eslintcache
+
+
+*.tgz
+.DSStore
+.cache
+.next
+
+
+
+build
+coverage
+.serverless

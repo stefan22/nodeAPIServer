@@ -1,0 +1,27 @@
+{
+  "1": {
+    "name": "Thomas",
+    "password": "ismyPassword",
+    "id": 1
+  },
+  "2": {
+    "name": "Mario",
+    "password": "ismy123Password",
+    "id": 2
+  },
+  "3": {
+    "name": "Joe",
+    "password": "ismyPassword",
+    "id": 3
+  },
+  "4": {
+    "name": "Michael",
+    "password": "$Password",
+    "id": 4
+  },
+  "5": {
+    "name": "Sam",
+    "password": "123456",
+    "id": 5
+  }
+}

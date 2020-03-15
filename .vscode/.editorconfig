@@ -1,0 +1,19 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 4
+charset = utf-8
+trim_trailing_whitespace = false
+insert_final_newline = false
+editor.fontSize: 14,
+editor.fontLigatures: true,
+terminal.integrated.fontSize: 14,
+editor.letterSpacing: 0.5,
+editor.cursorStyle: line,
+editor.cursorWidth: 3,
+editor.cursorBlinking: smooth,
+markdown.preview.fontSize: 14,
+editor.lineHeight: 24,
+editor.fontWeight: 400,
+editor.fontFamily: JetBrains Mono, Menlo, Consolas, 'Courier New', monospace
