@@ -1,7 +1,5 @@
-//load express and body-parser
 const express = require("express");
 const bodyParser = require("body-parser");
-
 
 //express instance
 const app = express();
