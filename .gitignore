@@ -6,7 +6,8 @@ pids
 *.pids
 *.seed
 *.pid.lock
-
+cert
+local-cert
 
 node_modules/
 .npm
